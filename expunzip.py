@@ -1,3 +1,8 @@
+#Author:
+#Amandeep Singh
+#MS Computer Engineering
+#NYU Polytechnic School Of Engineering '18
+
 import zipfile
 import os
 
